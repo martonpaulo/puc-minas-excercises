@@ -8,5 +8,5 @@ This repository contains the exercises performed by me during the specialization
   <img src="./logo-puc-minas.png" width="20%">
 </p>
 
-- [Todo List](https://puc-minas-todo-list.netlify.app/) – Todo List, using React ans React Hooks.
+- [Todo List](https://puc-minas-todo-list.netlify.app/) – Todo List, using React and React Hooks.
 
