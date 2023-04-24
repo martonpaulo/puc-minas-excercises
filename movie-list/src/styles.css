@@ -1,0 +1,17 @@
+.movie-item {
+	background-color: #EEE;
+	padding: 10px 30px;
+}
+
+.movie-item img {
+	max-width: 100%;
+}
+
+.main-header {
+	text-align: center;
+	padding: 50px;
+}
+
+.btn, .movie-poster {
+	margin: 0.5rem 0;
+}
